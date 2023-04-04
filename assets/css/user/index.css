@@ -1,0 +1,50 @@
+.boxMerah{
+	background-color: #FF9789; 
+	max-width: 100px;
+	border-radius: 5px;
+	margin-left: auto; 
+	margin-right: auto;
+	font-size: 12px;
+	padding: 1%;
+	color: #5A47AB;
+}
+
+.boxHijau{
+	background-color: #BBFABE; 
+	max-width: 80px;
+	max-height: 35px; 
+	border-radius: 5px; 
+	margin-left: auto; 
+	margin-right: auto;
+	padding: 1%;
+	font-size: 12px;
+	color: #5A47AB;
+}
+
+.boxOrange{
+	background-color: #FBD15B; 
+	max-width: 80px; 
+	max-height: 35px; 
+	border-radius: 5px; 
+	margin-left: auto; 
+	margin-right: auto;
+	font-size: 12px;
+	padding: 1%;
+	color: #5A47AB;
+}
+
+.boxBiru{
+	background-color: #BEE1F4; 
+	max-width: 120px; 
+	max-height: 35px; 
+	border-radius: 5px; 
+	margin-left: auto; 
+	margin-right: auto;
+	font-size: 12px;
+	padding: 1%;
+	color: #5A47AB;
+}
+
+a.UploadKontrak .boxOrange{
+	max-width: 120px;
+}

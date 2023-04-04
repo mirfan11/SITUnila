@@ -1,0 +1,21 @@
+.btnLogin {
+  color: white;
+  background-color: #5A47AB;
+}
+
+.btnLogin:hover {
+  border-color: #5A47AB;
+  color: #5A47AB;
+  background-color: white;
+}
+
+.btnRegis {
+  color: #5A47AB;
+  background-color: white;
+  border-color: #5A47AB;
+}
+
+.btnRegis:hover {
+  background-color: #5A47AB;
+  color: white;
+}
